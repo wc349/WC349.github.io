@@ -11,21 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Ph.D in Civil Engineering, The Hong Kong University of Science and Technology, 2019 
+* Ph.D in Civil Engineering, Carnegie Mellon University, 2018 
+* M.S. in Management Science and Engineering , Hohai University, 2014
+* B.S. in Engineering Management, Hohai University, 2011
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2022: Lecturer in BIM and Management, Bartlett School of Sustainable Construction, UCL 
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2022: Future Road Fellow (Marie Skłodowska-Curie Fellowship), University of Cambridge
+  * University of Cambridge
+  * Duties included: Tagging issues
+  * Supervisor: Professor Ioannis Brilakis
+
+* 2021-2022: Research Associate, University of Cambridge
+  * University of Cambridge
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Ioannis Brilakis
+  * 
+* 2019-2022: Postdoctoral Fellow, The Hong Kong University of Science and Technology
+  * The Hong Kong University of Science and Technology
+  * Duties included: Merging pull requests
+  * Supervisor: Professor jack C.P. Cheng
+
   
 Skills
 ======
@@ -57,3 +70,10 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+* Technical Committee Member, 2022 European Conference on Computing in Construction 
+* 
+•	Organizing Committee Member,  2022 European Computing in Construction Summer School
+•	Technical Committee Member, The 8th International Conference on Construction Engineering and Project Management (ICCPEM 2020), Hong Kong
+•	Local Organizing Committee, The 8th International Conference on Innovative Production and Construction (IPC 2020), Hong Kong
+•	Local Organizing Committee, 16th International Conference on Construction Applications of Virtual Reality (CONVR). December 2016, Hong Kong. Organizing Committee Member
+

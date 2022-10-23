@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "IMU-based full-body pose estimation for construction machines using kinematics modeling"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2022-06-01-paper-title-IMU-based full-body pose estimation for construction machines using kinematics modeling
+excerpt: 'This paper is about IMU-based full-body pose estimation for construction machines using kinematics modeling.'
+date: 2022-06-01
+venue: 'Journal 138'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0926580522000905'
+citation: 'Weiwei Chen, Chen W. (2022). &quot; IMU-based full-body pose estimation for construction machines using kinematics modeling.&quot; <i>Journal 1</i>. 1(3).'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0926580522000905)
 
 Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).

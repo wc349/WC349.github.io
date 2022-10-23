@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience"
+title: "Management of Major Programmes with Digital, 2023 Spring"
 collection: teaching
 type: "postgraduate course"
 permalink: /teaching/2023-spring-teaching-1

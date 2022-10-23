@@ -1,7 +1,7 @@
 ---
 title: "Data-driven predictive maintenance planning framework for MEP components based on BIM and IoT using machine learning algorithms"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-04-01-paper-title-Data-driven predictive maintenance planning framework for MEP components based on BIM and IoT using machine learning algorithms
 excerpt: 'This paper is about the predicitive maintenance based on BIM and IoT using ML algorithms.'
 date: 2020-04-01
 venue: 'Journal 112'

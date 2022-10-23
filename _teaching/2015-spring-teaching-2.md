@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Integrating Project Information Systems with Building Information Modelling (BIM), 2023 Spring"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2023-spring-teaching-2
+venue: "Bartlett School of Sustainable Construction, University College London"
+date: 2023-01-15
+location: "London, UK"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

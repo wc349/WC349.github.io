@@ -1,7 +1,7 @@
 ---
 title: "BIM-based framework for automatic scheduling of facility maintenance work orders"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2010-10-01-paper-title-BIM-based framework for automatic scheduling of facility maintenance work orders
 excerpt: 'This paper is about automatic scheduling using BIM and 3D A* algorithm.'
 date: 2018-07-01
 venue: 'Journal 91'

@@ -14,8 +14,6 @@ Education
 
 * Ph.D in Civil Engineering, The Hong Kong University of Science and Technology, 2019 
 * Ph.D in Civil Engineering, Carnegie Mellon University, 2018 
-* M.S. in Management Science and Engineering , Hohai University, 2014
-* B.S. in Engineering Management, Hohai University, 2011
 
 
 Work experience
